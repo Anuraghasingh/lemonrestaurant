@@ -13,4 +13,4 @@ This is a React-based web app for booking a table at the Little Lemon Restaurant
 
 ```bash
 npm install
-npm run dev
+npm start
